@@ -1,0 +1,36 @@
+/* Sass Variables */
+/* forward rule */
+/* bg-color*/
+/* text-color */
+/* flex-container */
+/* Misellenious */
+/* height*/
+/*width*/
+/* padding */
+/* margin */
+.nav-items {
+    background-color: purple;
+    padding: 10px;
+  }
+  
+  .links {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+  }
+  
+  .links li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* bg-color*/
+  /* text-color */
+  /* flex-container */
+  /* Misellenious */
+  /* height*/
+  /*width*/
+  /* padding */
+  /* margin */
+  /* Sass Variables */
+  /* forward rule *//*# sourceMappingURL=Main.css.map */
